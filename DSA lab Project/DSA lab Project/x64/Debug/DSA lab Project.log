@@ -1,0 +1,7 @@
+﻿  RabinKarp.cpp
+F:\Practice\DSA lab Project\DSA lab Project\RabinKarp.cpp(32,26): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+F:\Practice\DSA lab Project\DSA lab Project\RabinKarp.cpp(39,28): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+F:\Practice\DSA lab Project\DSA lab Project\RabinKarp.cpp(46,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  DSA lab Project.vcxproj -> F:\Practice\DSA lab Project\x64\Debug\DSA lab Project.exe

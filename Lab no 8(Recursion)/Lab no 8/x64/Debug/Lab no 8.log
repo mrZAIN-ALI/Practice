@@ -1,0 +1,9 @@
+﻿  LinnkedList.cpp
+  Source.cpp
+F:\Practice\Lab no 8(Recursion)\Lab no 8\Source.cpp(39,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\Practice\Lab no 8(Recursion)\Lab no 8\Source.cpp(47,59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\Practice\Lab no 8(Recursion)\Lab no 8\Source.cpp(55,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\Practice\Lab no 8(Recursion)\Lab no 8\Source.cpp(70,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\Practice\Lab no 8(Recursion)\Lab no 8\Source.cpp(81,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Lab no 8.vcxproj -> F:\Practice\Lab no 8(Recursion)\x64\Debug\Lab no 8.exe

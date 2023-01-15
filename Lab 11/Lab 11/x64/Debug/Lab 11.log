@@ -1,0 +1,5 @@
+﻿  BstTree.cpp
+  Source.cpp
+  Generating Code...
+F:\Practice\Lab 11\Lab 11\BstTree.cpp(78): warning C4715: 'BstTree::search': not all control paths return a value
+  Lab 11.vcxproj -> F:\Practice\Lab 11\x64\Debug\Lab 11.exe

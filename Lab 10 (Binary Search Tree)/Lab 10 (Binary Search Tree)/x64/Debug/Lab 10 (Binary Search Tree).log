@@ -1,0 +1,4 @@
+﻿  binaryTree.cpp
+F:\Practice\Lab 10 (Binary Search Tree)\Lab 10 (Binary Search Tree)\binaryTree.cpp(61,14): warning C4101: 'returnNode': unreferenced local variable
+F:\Practice\Lab 10 (Binary Search Tree)\Lab 10 (Binary Search Tree)\binaryTree.cpp(83): warning C4715: 'BstTree::search': not all control paths return a value
+  Lab 10 (Binary Search Tree).vcxproj -> F:\Practice\Lab 10 (Binary Search Tree)\x64\Debug\Lab 10 (Binary Search Tree).exe

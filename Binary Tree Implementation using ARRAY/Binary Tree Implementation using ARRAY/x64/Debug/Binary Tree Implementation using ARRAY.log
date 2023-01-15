@@ -1,0 +1,5 @@
+﻿  BinaryTree.cpp
+F:\Practice\Binary Tree Implementation using ARRAY\Binary Tree Implementation using ARRAY\BinaryTree.cpp(13,12): warning C4305: 'return': truncation from 'int' to 'bool'
+  Source.cpp
+  Generating Code...
+  Binary Tree Implementation using ARRAY.vcxproj -> F:\Practice\Binary Tree Implementation using ARRAY\x64\Debug\Binary Tree Implementation using ARRAY.exe
